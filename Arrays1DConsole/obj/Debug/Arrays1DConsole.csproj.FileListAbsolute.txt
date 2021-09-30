@@ -1,0 +1,7 @@
+C:\core\ver\oop-lab3\Arrays1DConsole\bin\Debug\Arrays1DConsole.exe.config
+C:\core\ver\oop-lab3\Arrays1DConsole\bin\Debug\Arrays1DConsole.exe
+C:\core\ver\oop-lab3\Arrays1DConsole\bin\Debug\Arrays1DConsole.pdb
+C:\core\ver\oop-lab3\Arrays1DConsole\obj\Debug\Arrays1DConsole.csproj.AssemblyReference.cache
+C:\core\ver\oop-lab3\Arrays1DConsole\obj\Debug\Arrays1DConsole.csproj.CoreCompileInputs.cache
+C:\core\ver\oop-lab3\Arrays1DConsole\obj\Debug\Arrays1DConsole.exe
+C:\core\ver\oop-lab3\Arrays1DConsole\obj\Debug\Arrays1DConsole.pdb
